@@ -26,3 +26,4 @@
 .envrc
 /inventory.yaml
 /spec/fixtures/litmus_inventory.yaml
+/files/powershell-lts_7.2.2-1.deb_amd64.deb
